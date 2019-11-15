@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/otp_login_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme"
+    android:orientation="vertical"
+    tools:context=".OTPScreen">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:fontFamily="@font/valencia"
+        android:gravity="center"
+        android:text="@string/verification_code"
+        android:textColor="@color/white"
+        android:textSize="55sp" />
+
+    <TextView
+        android:id="@+id/waiting_otp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="30dp"
+        android:textColor="@color/white" />
+
+    <in.aabhasjindal.otptextview.OtpTextView
+        android:id="@+id/otptext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        app:bar_active_color="@color/white"
+        app:bar_enabled="true"
+        app:bar_inactive_color="@color/white"
+        app:length="6"
+        app:width="40dp" />
+
+    <TextView
+        android:id="@+id/resend_otp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="@string/resend_otp"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/otp_countdown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <com.mrtyvz.archedimageprogress.ArchedImageProgressBar
+        android:id="@+id/otp_progressBar"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp" />
+
+</LinearLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".RecentTrans">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/trans_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.mrtyvz.archedimageprogress.ArchedImageProgressBar
+        android:id="@+id/trans_progress"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="@dimen/_100sdp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/fetching"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/lobster"
+        android:text="@string/fetching"
+        android:textColor="#808080"
+        android:textSize="@dimen/_25sdp" />
+
+    <ImageView
+        android:id="@+id/empty_image"
+        android:layout_width="@dimen/_150sdp"
+        android:layout_height="@dimen/_150sdp"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_90sdp"
+        android:src="@drawable/emptylist"
+        tools:ignore="ContentDescription" />
+
+    <ImageView
+        android:id="@+id/error_image"
+        android:layout_width="@dimen/_150sdp"
+        android:layout_height="@dimen/_150sdp"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_90sdp"
+        android:src="@drawable/sorry"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/error_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:gravity="center"
+        android:paddingStart="@dimen/_20sdp"
+        android:paddingEnd="@dimen/_20sdp" />
+
+    <com.beardedhen.androidbootstrap.BootstrapButton
+        android:id="@+id/try_again"
+        android:layout_width="@dimen/_200sdp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:text="@string/try_again"
+        app:bootstrapBrand="success"
+        app:bootstrapSize="lg"
+        app:roundedCorners="true" />
+
+</LinearLayout>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".ServiceTest">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_42sdp"
+        android:layout_gravity="center"
+        android:layout_marginTop="-20dp"
+        android:gravity="center">
+
+        <br.com.simplepass.loading_button_lib.customViews.CircularProgressButton
+            android:id="@+id/fobCircle"
+            android:layout_width="@dimen/_35sdp"
+            android:layout_height="@dimen/_35sdp"
+            android:background="@drawable/background_white"
+            android:stateListAnimator="@null"
+            app:spinning_bar_color="@color/red"
+            app:spinning_bar_width="6dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:fontFamily="@font/oneday"
+            android:text="FOB Service"
+            android:textSize="@dimen/_20sdp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_42sdp"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:gravity="center">
+
+        <br.com.simplepass.loading_button_lib.customViews.CircularProgressButton
+            android:id="@+id/smsCircle"
+            android:layout_width="@dimen/_35sdp"
+            android:layout_height="@dimen/_35sdp"
+            android:background="@drawable/background_white"
+            android:stateListAnimator="@null"
+            app:spinning_bar_color="@color/red"
+            app:spinning_bar_width="6dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:fontFamily="@font/oneday"
+            android:text="SMS Service"
+            android:textSize="@dimen/_20sdp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/test_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:gravity="center"
+        android:paddingStart="@dimen/_20sdp"
+        android:paddingEnd="@dimen/_20sdp"
+        android:textColor="@color/red" />
+
+    <com.beardedhen.androidbootstrap.BootstrapButton
+        android:id="@+id/service_btn"
+        android:layout_width="@dimen/_200sdp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:text="@string/check"
+        app:bootstrapBrand="success"
+        app:bootstrapSize="lg"
+        app:roundedCorners="true" />
+
+</LinearLayout>

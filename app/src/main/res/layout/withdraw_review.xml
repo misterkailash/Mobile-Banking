@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme"
+    android:orientation="vertical"
+    tools:context=".fragments.WithdrawReview">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/_10sdp"
+        android:background="@color/white"
+        app:cardCornerRadius="@dimen/_15sdp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="@dimen/_15sdp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_marginTop="-10dp"
+                android:src="@drawable/bdb_header"
+                tools:ignore="ContentDescription" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:fontFamily="@font/champagne_bold"
+                android:text="@string/action_review"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_20sdp" />
+
+            <TextView
+                android:id="@+id/wd_statement"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:gravity="center_horizontal"
+                android:text="@string/withdraw_statement"
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_13sdp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_60sdp"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:fontFamily="@font/champagne_bold"
+                android:gravity="center_horizontal"
+                android:text="@string/deposit_confirmation"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_15sdp" />
+
+            <com.beardedhen.androidbootstrap.BootstrapButton
+                android:id="@+id/wd_confirm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:text="@string/yes"
+                app:bootstrapBrand="success"
+                app:bootstrapSize="lg"
+                app:roundedCorners="true" />
+
+            <com.beardedhen.androidbootstrap.BootstrapButton
+                android:id="@+id/wd_cancel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:text="@string/dialog_cancel"
+                app:bootstrapBrand="danger"
+                app:bootstrapSize="lg"
+                app:roundedCorners="true" />
+
+            <com.mrtyvz.archedimageprogress.ArchedImageProgressBar
+                android:id="@+id/wd_progressBar"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="-35dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp" />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
