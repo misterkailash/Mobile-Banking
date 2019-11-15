@@ -167,6 +167,7 @@ public class BalanceFragment extends Fragment {
                     if (success.equals("SUCCESS")) {
                         SharedPreferences.Editor editor = Objects.requireNonNull(getActivity()).getSharedPreferences("PREF", Context.MODE_PRIVATE).edit();
                         editor.putString("balance", array.getString("balance"));
+                        editor.putString("time", array.getString("tran_time"));
                         editor.apply();
                         FragmentManager manager = getFragmentManager();
                         Objects.requireNonNull(manager).beginTransaction().replace(R.id.content_main, new BalanceView()).addToBackStack("Balance").commit();

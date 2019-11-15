@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Nov 15 12:54:11 ALMT 2019
+2.base=C\:\\Users\\KAI\\AndroidStudioProjects\\MobileBanking\\app\\build\\intermediates\\merged_assets\\debug\\out
+5.set=ASSET
+0.path=fontawesome-webfont-v470.ttf
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\KAI\\AndroidStudioProjects\\MobileBanking\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.set=ASSET
+1.path=songti.ttf
+4.base=C\:\\Users\\KAI\\AndroidStudioProjects\\MobileBanking\\app\\build\\intermediates\\merged_assets\\debug\\out
+count=6
+5.baseType=DIRECTORY
+2.path=typicons-v207.ttf
+5.base=C\:\\Users\\KAI\\AndroidStudioProjects\\MobileBanking\\app\\build\\intermediates\\merged_assets\\debug\\out
+4.set=ASSET
+3.path=MaterialIcons-Regular.ttf
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=Lobster 1.4.otf
+1.baseType=DIRECTORY
+5.path=Moon Light.otf
+0.base=C\:\\Users\\KAI\\AndroidStudioProjects\\MobileBanking\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=C\:\\Users\\KAI\\AndroidStudioProjects\\MobileBanking\\app\\build\\intermediates\\merged_assets\\debug\\out
+4.baseType=DIRECTORY
+0.set=ASSET

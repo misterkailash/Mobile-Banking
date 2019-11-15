@@ -1,6 +1,5 @@
 package com.bdb.mobilebanking.fragments;
 
-import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.graphics.Bitmap;
@@ -33,9 +32,6 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
-import java.util.Date;
 import java.util.Objects;
 
 import butterknife.BindView;
@@ -91,7 +87,7 @@ public class BalanceView extends Fragment {
     public Bitmap createQR() {
         Bitmap bitmap = null;
         String str = "Bhutan Development Bank\nBalance Enquiry Receipt\n" +
-                "Printed on: " + getTime() +
+                "Printed on: " + sp.getString("time", null) +
                 "\nAccount Holder: " + title + accountName +
                 "\nAccount: " + accountNumber + "\nBalance: " + balanceAmount;
         MultiFormatWriter writer = new MultiFormatWriter();
@@ -103,12 +99,6 @@ public class BalanceView extends Fragment {
             e.printStackTrace();
         }
         return bitmap;
-    }
-
-    public String getTime() {
-        Date date = Calendar.getInstance().getTime();
-        @SuppressLint("SimpleDateFormat") SimpleDateFormat dateFormat = new SimpleDateFormat("dd-MMM-yyyy, hh:mm:ss a");
-        return dateFormat.format(date);
     }
 
     private JSONObject getPrintObject(String test) {
@@ -162,7 +152,7 @@ public class BalanceView extends Fragment {
             printTest.put(getPrintObject("------------------------------------------------"));
             printTest.put(getPrintObject("\nBalance Enquiry Receipt"));
             printTest.put(getPrintObject("------------------------------------------------"));
-            printTest.put(getPrintObject("\nPrinted: " + getTime()));
+            printTest.put(getPrintObject("\nPrinted: " + sp.getString("time", null)));
             printTest.put(getPrintObject("------------------------------------------------"));
             printTest.put(getPrintObject("\n\nAccount Holder:\n" + title + accountName));
             printTest.put(getPrintObject("\n\nAccount Number: " + sp.getString("account", "null")));

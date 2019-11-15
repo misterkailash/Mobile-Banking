@@ -1,0 +1,4 @@
+#Fri Nov 15 12:54:25 ALMT 2019
+base.0=C\:\\Users\\KAI\\AndroidStudioProjects\\MobileBanking\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

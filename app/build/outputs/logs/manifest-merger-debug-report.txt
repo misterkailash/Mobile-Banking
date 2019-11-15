@@ -1,0 +1,516 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:2:1-111:12
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\629ea6b28d1d77e6bbc60b9ad1c9e97f\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\4abf7a24acb09bfd2d97ca431b5f5494\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\8cfb642050adbdb7f80cd37407959fbe\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.aabhasr1:OtpView:1.0.6] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\26d1aec9384ec71e7992c2b4b96db455\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.arimorty:floatingsearchview:2.0.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\acc70edf6190e8e616ca7827809e1c69\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\99296a7e8065ad71db6ab429a8993dea\AndroidManifest.xml:17:1-24:12
+MERGED from [com.beardedhen:androidbootstrap:2.3.2] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\5631af67e50b699c6824ccd72cfdbbe2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.bartoszlipinski:viewpropertyobjectanimator:1.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\d949e4943227964fca45daf3ef2cb425\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\6c4d3f27ab667d56827959d0d091743d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.bestsoft32.tayyab:tt-fancy-gif-dialog:1.0.2] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\1261a7bfe8bfff23cd93dbf107da89f0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\23e73e4bdb4bab6bb908bbb31e277ea1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.smrtyvz:ArchedImageProgressBar:2.01] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\3fa770e1a2d9edaa9ffdc3ae91eb77fb\AndroidManifest.xml:2:1-11:12
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\f32521c0c6da3e0d7766bf7df36d8072\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.AppIntro:AppIntro:4.2.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\2f67a27b2981a7d42c70422ee78f698a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\886cff4634fa4ec8271c846b88fd6097\AndroidManifest.xml:2:1-13:12
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\575ce42d12566886993aa88b20befe16\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\ccc7fa8386f9f64c7780f3b1157e4c2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\bfd07a6a79c09d84ec51bc674be0fac7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\f9b5b73b3390e1901ade6acc1359dd1f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\20692d83defa63baf17e6d8566d08a09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\4ce4d2ce2b119843533814432d265629\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\a1e59e579238e6e9ab8e24168e93ace2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43fadd3d4c46dd5dd994381f28791442\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\7d8221121bb1674672f0acd14ec8b836\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\a71d64aba548a5bab9508d3a3ae8c01c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\2177912e601be08c95ea5b43738db21d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\652247299ab61519c5d9d7101b8d7079\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\9c2e3a1ced01f5e597474f0d698f1c51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\bae737484d941b307897617b9342e3ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\3bce1164fd540591ef1627db8eadece4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\d6b3d44813212b05ca73e0dafa7b636c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\789f30b0449124eee245eed8bd286b4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\ddcffff33368efcd3171c0dde16a99ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\5261c211bc7677ced28673fc2a8c3a62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\cc1d924441d32d120d07456d1323dc7f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\674a15c4a03579eeb56a33cb667ff611\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\74d7ce775bc22fa2782e0bce6d1b3845\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\5b385195959659de96a8d6383e854431\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\a14d1074c4b0083fa75a17d143841323\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\dc2927f20909b37e020821e27fd9ff58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\86097b153cae6442b2b2458596a11a48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\f4a8302ea3705d03314b5552852ba530\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\e25d995684833ca725ac0088f8de151b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\536dd8fc89149462a65f116b41f3dbe7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\b8ecce2046895d0af69b83b81f565cf1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\ac055acc7fa3c9f5f30447a645254c72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:17:1-55:12
+MERGED from [com.github.zjywill:OverwatchProgress:1.6] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\75fff6e932320fa5c4976294f8e4b2bc\AndroidManifest.xml:2:1-17:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\c6c659dd8f229ddde19613c83ec0e136\AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\71adf81a8a43e5e0284d141adb3a9023\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:2:1-111:12
+	package
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:2:1-111:12
+		INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:2:1-111:12
+		INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:8:22-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#com.pos.permission.ACCESSORY_DATETIME
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:12:22-74
+uses-permission#com.pos.permission.ACCESSORY_LED
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:13:22-69
+uses-permission#com.pos.permission.ACCESSORY_BEEP
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:14:22-70
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:16:22-71
+uses-permission#com.pos.permission.CARD_READER_ICC
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:17:22-71
+uses-permission#com.pos.permission.CARD_READER_PICC
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:18:22-72
+uses-permission#com.pos.permission.CARD_READER_MAG
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:19:5-74
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:19:22-71
+uses-permission#com.pos.permission.COMMUNICATION
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:20:22-69
+uses-permission#com.pos.permission.PRINTER
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:21:22-63
+uses-permission#com.pos.permission.SECURITY
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:24:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:21:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:24:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:26:5-28:47
+	tools:ignore
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:28:9-44
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:27:9-68
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:30:22-63
+uses-permission#com.pos.permission.ACCESSORY_RFREGISTER
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:31:5-79
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:31:22-76
+uses-permission#com.pos.permission.EMVCORE
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:32:5-66
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:32:22-63
+application
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:34:5-109:19
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\629ea6b28d1d77e6bbc60b9ad1c9e97f\AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\629ea6b28d1d77e6bbc60b9ad1c9e97f\AndroidManifest.xml:12:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\4abf7a24acb09bfd2d97ca431b5f5494\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\4abf7a24acb09bfd2d97ca431b5f5494\AndroidManifest.xml:9:5-20
+MERGED from [com.github.arimorty:floatingsearchview:2.0.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\acc70edf6190e8e616ca7827809e1c69\AndroidManifest.xml:12:5-20
+MERGED from [com.github.arimorty:floatingsearchview:2.0.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\acc70edf6190e8e616ca7827809e1c69\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\99296a7e8065ad71db6ab429a8993dea\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\99296a7e8065ad71db6ab429a8993dea\AndroidManifest.xml:22:5-20
+MERGED from [com.bestsoft32.tayyab:tt-fancy-gif-dialog:1.0.2] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\1261a7bfe8bfff23cd93dbf107da89f0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.bestsoft32.tayyab:tt-fancy-gif-dialog:1.0.2] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\1261a7bfe8bfff23cd93dbf107da89f0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.AppIntro:AppIntro:4.2.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\2f67a27b2981a7d42c70422ee78f698a\AndroidManifest.xml:11:5-47
+MERGED from [com.github.AppIntro:AppIntro:4.2.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\2f67a27b2981a7d42c70422ee78f698a\AndroidManifest.xml:11:5-47
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\886cff4634fa4ec8271c846b88fd6097\AndroidManifest.xml:11:5-20
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\886cff4634fa4ec8271c846b88fd6097\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\575ce42d12566886993aa88b20befe16\AndroidManifest.xml:11:5-15:19
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\575ce42d12566886993aa88b20befe16\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\f9b5b73b3390e1901ade6acc1359dd1f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\f9b5b73b3390e1901ade6acc1359dd1f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\cc1d924441d32d120d07456d1323dc7f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\cc1d924441d32d120d07456d1323dc7f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\674a15c4a03579eeb56a33cb667ff611\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\674a15c4a03579eeb56a33cb667ff611\AndroidManifest.xml:22:5-23:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:45:5-53:19
+MERGED from [com.github.zjywill:OverwatchProgress:1.6] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\75fff6e932320fa5c4976294f8e4b2bc\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.zjywill:OverwatchProgress:1.6] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\75fff6e932320fa5c4976294f8e4b2bc\AndroidManifest.xml:11:5-15:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\cc1d924441d32d120d07456d1323dc7f\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:40:9-35
+	android:label
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:38:9-41
+	tools:ignore
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:42:9-35
+	android:roundIcon
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:39:9-54
+	android:icon
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:37:9-43
+		REJECTED from [com.pnikosis:materialish-progress:1.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\575ce42d12566886993aa88b20befe16\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:36:9-35
+	android:theme
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:41:9-40
+	tools:replace
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:43:9-37
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:35:9-38
+receiver#com.bdb.mobilebanking.utils.SMSReceiver
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:45:9-51:20
+	android:permission
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:46:13-46
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:48:13-50:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:49:17-82
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:49:25-79
+activity#com.bdb.mobilebanking.MainActivity
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:53:9-61:20
+	android:label
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:55:13-46
+	android:launchMode
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:56:13-43
+	android:theme
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:54:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:58:13-60:70
+	android:value
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:60:17-67
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:59:17-63
+activity#com.bdb.mobilebanking.OTPScreen
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:62:9-64:50
+	android:theme
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:64:13-47
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:63:13-38
+activity#com.bdb.mobilebanking.SplashScreen
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:65:9-74:20
+	android:theme
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:67:13-47
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:66:13-41
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:68:13-73:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:69:17-69
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:69:25-66
+action#android.intent.action.VIEW
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:70:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:72:27-74
+activity#com.bdb.mobilebanking.LoginScreen
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:75:9-78:67
+	android:windowSoftInputMode
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:78:13-64
+	android:theme
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:77:13-47
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:76:13-40
+activity#com.bdb.mobilebanking.ForgotPassword
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:79:9-81:50
+	android:theme
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:81:13-47
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:80:13-43
+activity#com.bdb.mobilebanking.ServiceTest
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:82:9-84:45
+	android:label
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:84:13-42
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:83:13-40
+activity#com.bdb.mobilebanking.RecentTrans
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:85:9-87:52
+	android:label
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:87:13-34
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:86:13-40
+activity#com.bdb.mobilebanking.ScanResult
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:88:9-48
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:88:19-45
+activity#com.bdb.mobilebanking.IntroActivity
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:89:9-91:50
+	android:theme
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:91:13-47
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:90:13-42
+activity#com.bdb.mobilebanking.About
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:92:9-43
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:92:19-40
+activity#com.bdb.mobilebanking.PasswordChange
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:93:9-95:47
+	android:label
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:95:13-44
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:94:13-43
+activity#com.bdb.mobilebanking.OTPResetScreen
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:96:9-98:50
+	android:theme
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:98:13-47
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:97:13-43
+activity#com.bdb.mobilebanking.PasswordReset
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:99:9-101:59
+	android:theme
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:101:13-56
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:100:13-42
+activity#com.bdb.mobilebanking.MyStatement
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:102:9-104:44
+	android:label
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:104:13-41
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:103:13-40
+activity#com.bdb.mobilebanking.ProfileActivity
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:105:9-107:45
+	android:label
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:107:13-42
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:106:13-44
+activity#com.bdb.mobilebanking.ContactUs
+ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:108:9-47
+	android:name
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml:108:19-44
+uses-sdk
+INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\629ea6b28d1d77e6bbc60b9ad1c9e97f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\629ea6b28d1d77e6bbc60b9ad1c9e97f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\4abf7a24acb09bfd2d97ca431b5f5494\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\4abf7a24acb09bfd2d97ca431b5f5494\AndroidManifest.xml:7:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\8cfb642050adbdb7f80cd37407959fbe\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\8cfb642050adbdb7f80cd37407959fbe\AndroidManifest.xml:5:5-43
+MERGED from [com.github.aabhasr1:OtpView:1.0.6] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\26d1aec9384ec71e7992c2b4b96db455\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.aabhasr1:OtpView:1.0.6] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\26d1aec9384ec71e7992c2b4b96db455\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.arimorty:floatingsearchview:2.0.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\acc70edf6190e8e616ca7827809e1c69\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.arimorty:floatingsearchview:2.0.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\acc70edf6190e8e616ca7827809e1c69\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\99296a7e8065ad71db6ab429a8993dea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\99296a7e8065ad71db6ab429a8993dea\AndroidManifest.xml:20:5-44
+MERGED from [com.beardedhen:androidbootstrap:2.3.2] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\5631af67e50b699c6824ccd72cfdbbe2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.beardedhen:androidbootstrap:2.3.2] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\5631af67e50b699c6824ccd72cfdbbe2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.bartoszlipinski:viewpropertyobjectanimator:1.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\d949e4943227964fca45daf3ef2cb425\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bartoszlipinski:viewpropertyobjectanimator:1.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\d949e4943227964fca45daf3ef2cb425\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\6c4d3f27ab667d56827959d0d091743d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\6c4d3f27ab667d56827959d0d091743d\AndroidManifest.xml:20:5-44
+MERGED from [com.bestsoft32.tayyab:tt-fancy-gif-dialog:1.0.2] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\1261a7bfe8bfff23cd93dbf107da89f0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bestsoft32.tayyab:tt-fancy-gif-dialog:1.0.2] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\1261a7bfe8bfff23cd93dbf107da89f0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\23e73e4bdb4bab6bb908bbb31e277ea1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\23e73e4bdb4bab6bb908bbb31e277ea1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.smrtyvz:ArchedImageProgressBar:2.01] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\3fa770e1a2d9edaa9ffdc3ae91eb77fb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.smrtyvz:ArchedImageProgressBar:2.01] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\3fa770e1a2d9edaa9ffdc3ae91eb77fb\AndroidManifest.xml:7:5-9:41
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\f32521c0c6da3e0d7766bf7df36d8072\AndroidManifest.xml:7:5-9:41
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\f32521c0c6da3e0d7766bf7df36d8072\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AppIntro:AppIntro:4.2.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\2f67a27b2981a7d42c70422ee78f698a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AppIntro:AppIntro:4.2.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\2f67a27b2981a7d42c70422ee78f698a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\886cff4634fa4ec8271c846b88fd6097\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\886cff4634fa4ec8271c846b88fd6097\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\575ce42d12566886993aa88b20befe16\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\575ce42d12566886993aa88b20befe16\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\ccc7fa8386f9f64c7780f3b1157e4c2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\ccc7fa8386f9f64c7780f3b1157e4c2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\bfd07a6a79c09d84ec51bc674be0fac7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\bfd07a6a79c09d84ec51bc674be0fac7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\f9b5b73b3390e1901ade6acc1359dd1f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\f9b5b73b3390e1901ade6acc1359dd1f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\20692d83defa63baf17e6d8566d08a09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\20692d83defa63baf17e6d8566d08a09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\4ce4d2ce2b119843533814432d265629\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\4ce4d2ce2b119843533814432d265629\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\a1e59e579238e6e9ab8e24168e93ace2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\a1e59e579238e6e9ab8e24168e93ace2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43fadd3d4c46dd5dd994381f28791442\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43fadd3d4c46dd5dd994381f28791442\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\7d8221121bb1674672f0acd14ec8b836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\7d8221121bb1674672f0acd14ec8b836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\a71d64aba548a5bab9508d3a3ae8c01c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\a71d64aba548a5bab9508d3a3ae8c01c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\2177912e601be08c95ea5b43738db21d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\2177912e601be08c95ea5b43738db21d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\652247299ab61519c5d9d7101b8d7079\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\652247299ab61519c5d9d7101b8d7079\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\9c2e3a1ced01f5e597474f0d698f1c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\9c2e3a1ced01f5e597474f0d698f1c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\bae737484d941b307897617b9342e3ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\bae737484d941b307897617b9342e3ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\3bce1164fd540591ef1627db8eadece4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\3bce1164fd540591ef1627db8eadece4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\d6b3d44813212b05ca73e0dafa7b636c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\d6b3d44813212b05ca73e0dafa7b636c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\789f30b0449124eee245eed8bd286b4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\789f30b0449124eee245eed8bd286b4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\ddcffff33368efcd3171c0dde16a99ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\ddcffff33368efcd3171c0dde16a99ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\5261c211bc7677ced28673fc2a8c3a62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\5261c211bc7677ced28673fc2a8c3a62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\cc1d924441d32d120d07456d1323dc7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\cc1d924441d32d120d07456d1323dc7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\674a15c4a03579eeb56a33cb667ff611\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\674a15c4a03579eeb56a33cb667ff611\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\74d7ce775bc22fa2782e0bce6d1b3845\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\74d7ce775bc22fa2782e0bce6d1b3845\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\5b385195959659de96a8d6383e854431\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\5b385195959659de96a8d6383e854431\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\a14d1074c4b0083fa75a17d143841323\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\a14d1074c4b0083fa75a17d143841323\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\dc2927f20909b37e020821e27fd9ff58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\dc2927f20909b37e020821e27fd9ff58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\86097b153cae6442b2b2458596a11a48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\86097b153cae6442b2b2458596a11a48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\f4a8302ea3705d03314b5552852ba530\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\f4a8302ea3705d03314b5552852ba530\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\e25d995684833ca725ac0088f8de151b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\e25d995684833ca725ac0088f8de151b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\536dd8fc89149462a65f116b41f3dbe7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\536dd8fc89149462a65f116b41f3dbe7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\b8ecce2046895d0af69b83b81f565cf1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\b8ecce2046895d0af69b83b81f565cf1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\ac055acc7fa3c9f5f30447a645254c72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\ac055acc7fa3c9f5f30447a645254c72\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:19:5-43
+MERGED from [com.github.zjywill:OverwatchProgress:1.6] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\75fff6e932320fa5c4976294f8e4b2bc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.zjywill:OverwatchProgress:1.6] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\75fff6e932320fa5c4976294f8e4b2bc\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\c6c659dd8f229ddde19613c83ec0e136\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\c6c659dd8f229ddde19613c83ec0e136\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\71adf81a8a43e5e0284d141adb3a9023\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\71adf81a8a43e5e0284d141adb3a9023\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KAI\AndroidStudioProjects\MobileBanking\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\KAI\.gradle\caches\transforms-2\files-2.1\43e49c01dd00e26da2be72fb9755f178\AndroidManifest.xml:47:13-74
