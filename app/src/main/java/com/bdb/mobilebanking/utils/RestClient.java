@@ -1,8 +1,8 @@
 package com.bdb.mobilebanking.utils;
 
 public class RestClient {
-    private static String ROOT = "http://202.144.141.142/";
-    //private static String ROOT = "http://192.168.137.114/mobilebanking/";
+    //private static String ROOT = "http://202.144.141.142/";
+    private static String ROOT = "http://192.168.137.114/mobilebanking/";
 
     public static String LOGIN_URL = ROOT + "login_validate.php";
     public static String OTP_VERIFY = ROOT + "otp_verify.php";
