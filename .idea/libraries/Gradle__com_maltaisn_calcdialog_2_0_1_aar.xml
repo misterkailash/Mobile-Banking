@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.maltaisn:calcdialog:2.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab98e18b09f13bd1a9112f186dbb9532/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab98e18b09f13bd1a9112f186dbb9532/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.maltaisn/calcdialog/2.0.1/813f8af6b13b693d2bff39591458dc7541c0bb41/calcdialog-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

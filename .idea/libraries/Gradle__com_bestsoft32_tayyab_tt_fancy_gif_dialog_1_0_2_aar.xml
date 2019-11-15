@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bestsoft32.tayyab:tt-fancy-gif-dialog:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1261a7bfe8bfff23cd93dbf107da89f0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1261a7bfe8bfff23cd93dbf107da89f0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bestsoft32.tayyab/tt-fancy-gif-dialog/1.0.2/e2ffa0d49210f40659cc220d53d1a838284d57cb/tt-fancy-gif-dialog-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
